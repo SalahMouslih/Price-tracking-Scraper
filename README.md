@@ -1,3 +1,3 @@
 # Price-tracker-Scraper-
 
-A price tracker scraper that sends you an email automaticly once the price drops
+A price tracking scraper that sends you an email once the price of a product you are interested in drops
